@@ -192,6 +192,7 @@ See also: [Software: Binary Analysis](https://github.com/MattPD/cpplinks/blob/ma
 	- https://doi.org/10.1145/3695053.3731102
 	- https://2plus2a.com/files/publications/2025-ISCA-precise-exceptions.pdf
 	- https://2plus2a.com/files/slides/2025-06-23-ISCA.pdf
+	- https://www.youtube.com/watch?v=JkNgZz4bu1E
 - Relaxed virtual memory in Armv8-A
 	- ESOP 2022
 	- Ben Simner, Alasdair Armstrong, Jean Pichon-Pharabod, Christopher Pulte, Richard Grisenthwaite, Peter Sewell
