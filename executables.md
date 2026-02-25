@@ -927,6 +927,9 @@ BTF: BPF Type Format
 	- Doesn't use `dlopen` and can inject into statically linked targets by mapping manually the ELF in memory from syscalls only
 	- https://github.com/ixty/mandibule
 - Melkor - An ELF File Format Fuzzer - https://github.com/IOActive/Melkor_ELF_Fuzzer
+- niche-elf: A small library that optimizes some niche operations commonly used by debugger extensions
+	- Main use-case currently is building an ELF from a list of symbols for the purposes of add-symbol-fileing it into the debbuger. This is useful for stuff like ks --apply and syncing symbols for decompiler integration.
+	- https://github.com/pwndbg/niche-elf
 - objdump beautifier - https://github.com/diouziou/bod
 	- Supported Targets: elf32-littlearm, elf32-tradlittlemips, elf32-i386, elf64-x86-64
 - PatchELF: A small utility to modify the dynamic linker and RPATH of ELF executables
