@@ -711,6 +711,14 @@ See also: [Computer Architecture](comparch.md)
 
 ### Defense: Hardware Design & Verification: 2025
 
+- Frameworks for Joint Verification of Security Critical Software and Microarchitecture
+	- 2025 PhD Dissertation
+	- Moein Ghaniyoun
+	- http://rave.ohiolink.edu/etdc/view?acc_num=osu1744852567414183
+	- "we present three pre-silicon security verifcation frameworks that use register transfer level (RTL) simulations to provide unprecendented visibility into the micro-architectural state of the processor, while running software of interest for verification"
+		- IntroSpectre: a framework for early discovery of transient execution vulnerabilities
+		- TEESec: aimed at discovering microarchitectural vulnerabilities in the context of trusted execution environments
+		- MicroSampler: a dynamic leakage detection framework to identify secret-dependent microarchitectural behavior that can lead to side-channel leakage in security critical software
 - Oreo: Protecting ASLR Against Microarchitectural Attacks
 	- Network and Distributed System Security (NDSS) Symposium 2025
 	- Shixin Song, Joseph Zhang, Mengjia Yan
