@@ -353,6 +353,13 @@ See also: Section 6.3 (Compiler Bug Debugging) in ["A Survey of Compiler Testing
 	- https://bahr.io/pubs/files/mococo-paper.pdf
 	- https://github.com/pa-ba/monadic-compiler-calculation
 	- https://icfp22.sigplan.org/details/icfp-2022-papers/4/Monadic-Compiler-Calculation
+- The Calculated Typer
+	- ACM SIGPLAN International Haskell Symposium 2025
+	- Zac Garby, Patrick Bahr, Graham Hutton
+	- https://doi.org/10.1145/3759164.3759346
+	- https://bahr.io/pubs/entries/calctyper.html
+	- https://zacgarby.co.uk/posts/the-calculated-typer/
+	- https://www.youtube.com/watch?v=UKJU7-IOwhk
 
 ## Calculation: 2010s
 
